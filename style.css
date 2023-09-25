@@ -8,7 +8,7 @@
   list-style: none;
   text-decoration: none;
   padding: 0.3em;
-  /*background-color: #deebaa3;*/
+  
   
 }
 
@@ -159,7 +159,7 @@ header {
   background-color: rgba(133, 128, 128, 0.753);
   color: rgb(253, 253, 253);
   border-radius: 10%;
-  border-color: #0f0707;
+  border: 1px solid black;
   font-size: 20px;
   padding: 8px 17px;
   position: absolute;
