@@ -64,7 +64,7 @@ header {
 
 }
 
-#cart-icon {
+#bag-icon {
   font-size: 1.8em;
   cursor: pointer;
 
@@ -114,7 +114,7 @@ header {
   font-weight: 700;
 }
 
-.add-cart {
+.add-bag {
   position: absolute;
   bottom: 0;
   right: 0;
@@ -124,7 +124,7 @@ header {
   cursor: pointer;
 }
 
-.add-cart:hover {
+.add-bag:hover {
   background: hsl(249, 32%, 17%)
 }
 
@@ -144,7 +144,7 @@ header {
   transition: 0.4s;
 }
 
-#cartValue {
+#bagValue {
   background-color: transparent;
   color: #0f0707;
   font-size: 35px;
@@ -155,7 +155,7 @@ header {
   right: 100px;
 }
 
-.cartRate {
+.bagRate {
   background-color: rgba(133, 128, 128, 0.753);
   color: rgb(253, 253, 253);
   border-radius: 10%;
@@ -184,22 +184,22 @@ header {
   cursor: pointer;
 }
 
-#addToCart1 {
+#addToBag1 {
     background-color: rgba(60, 58, 58, 0.753);
     color: rgb(253, 253, 253);
     border: 1px solid black;
 }
-#addToCart2 {
+#addToBag2 {
     background-color: rgba(60, 58, 58, 0.753);
     color: rgb(253, 253, 253);
    border: 1px solid black;
 }
-#addToCart3 {
+#addToBag3 {
     background-color: rgba(60, 58, 58, 0.753);
     color: rgb(253, 253, 253);
     border: 1px solid black;
 }
-#addToCart4 {
+#addToBag4 {
     background-color: rgba(60, 58, 58, 0.753);
     color: rgb(253, 253, 253);
     border: 1px solid black; 
