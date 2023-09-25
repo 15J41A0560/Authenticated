@@ -24,12 +24,15 @@ img {
 
 body {
   color: var(--text-color);
+   
 }
 
 .container {
   max-width: 1068px;
   margin: auto;
   width: 100%;
+    background-color: rgba(7, 7, 7, 0.753);
+  color: rgb(249, 244, 244);
 }
 
 section {
