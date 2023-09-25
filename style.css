@@ -184,8 +184,19 @@ header {
   cursor: pointer;
 }
 
-.addToCart4 {
-  background-color: rgba(133, 128, 128, 0.753);
-  color: rgb(253, 253, 253);
+#addToCart1 {
+    background-color: rgba(60, 58, 58, 0.753);
+    color: rgb(253, 253, 253);
 }
-
+#addToCart2 {
+    background-color: rgba(60, 58, 58, 0.753);
+    color: rgb(253, 253, 253);
+}
+#addToCart3 {
+    background-color: rgba(60, 58, 58, 0.753);
+    color: rgb(253, 253, 253);
+}
+#addToCart4 {
+    background-color: rgba(60, 58, 58, 0.753);
+    color: rgb(253, 253, 253);
+}
