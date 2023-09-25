@@ -85,8 +85,7 @@ header {
 .shop-content {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(50px, auto));
-  background-color: rgba(7, 7, 7, 0.753);
-  color: rgb(249, 244, 244);
+  
 }
 
 .product-box {
